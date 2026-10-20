@@ -66,7 +66,7 @@ if resultado:
     print("\nEl ratón logró salir del laberinto")
     print("El raton obtuvo al menos 23 puntos.")
 
-    print("\nMatriz para  salir")
+    print("\nCamino recorrido por el ratón:")
     for i in range(9):
         for j in range(9):
             if laberinto[i][j] == 'I':
