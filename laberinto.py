@@ -90,5 +90,5 @@ if resultado:
 else:
     print("\nEl ratón no pudo salir del laberinto")
     print("No se encontro un camino con 23 puntos.")
-    print("\nMATRIZ DEL CAMINO")
+    print("\nMatriz del camino")
     mostrar_laberinto(camino)
